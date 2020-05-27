@@ -7,7 +7,7 @@
 <blockquote align="center">“Sucesso não é o resultado de um jogo, mas o destino de uma jornada”!</blockquote>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/ferreirase/Conceitos-do-React-Native?color=%2304D361">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/ferreirase/desafio-conceitos-react-native?color=%2304D361">
 
   <a href="https://github.com/ferreirase">
     <img alt="Made by Ferreira" src="https://img.shields.io/badge/made%20by-Ferreira-%2304D361">
@@ -15,8 +15,8 @@
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
 
-  <a href="https://github.com/Rocketseat/bootcamp-gostack-desafios/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/ferreirase/Conceitos-do-React-Native?style=social">
+  <a href="https://github.com/ferreirase/desafio-conceitos-react-native">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/ferreirase/desafio-conceitos-react-native?style=social">
   </a>
 </p>
 
